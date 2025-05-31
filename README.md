@@ -1,82 +1,77 @@
-## Hey there 👋 I’m Swathi!
+## Hi there 👋 I'm Swathi (a.k.a. Sindhu)
 
-Welcome to my GitHub corner! I'm a Computer Science & Engineering student from M.Kumarasamy College of Engineering, passionate about tech, testing, and a touch of glam ✨
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Developer gif" />
-
----
-
-### 🚀 What I’m Up To
-
-- 🎓 Pursuing CSE | CGPA Goal:  🎯
-- 🧪 Passionate about **Software Testing** — aspiring to work at an MNC!
-- 🌍 Actively building meaningful tech to improve lives
+Computer Science & Engineering Student | Passionate Tester | Dreaming in Code & Colors 💻💄  
+Aspiring to work at an MNC and build meaningful solutions that help people 🌍  
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ---
 
-### 💻 Featured Projects
+### 🔭 My Projects
 
-#### 🥗 Food Management Website  
-**Goal:** Reduce food wastage by connecting food contractors with volunteers  
-**Tech Stack:** HTML, CSS, JavaScript, Java (Backend)  
-**Role:** Testing & UI functionality  
-**Highlight:** Real-time donation workflow and food redistribution mechanism  
+#### 🥘 [Food Management Website](#)
+Helps reduce food waste by connecting food contractors with volunteers for distribution.  
+**Stack:** HTML, CSS, JavaScript, Java  
+**Role:** Testing, UI validation, functionality workflow  
+**Highlight:** Real-time food request and volunteer coordination.
 
-#### 🚨 Post-Disaster Recovery Platform  
-**Goal:** Help victims during disasters with resource location and volunteer coordination  
-**Tech Stack:** Flutter (Dart), Firebase, Cloud Firestore, Google Maps API  
-**Highlight:** Real-time map integration and request/response tracking  
+#### ⚠️ [Post-Disaster Recovery Platform](#)
+Helps victims locate resources and coordinate help during disasters.  
+**Stack:** Flutter, Firebase, Google Maps API, Cloud Firestore  
+**Role:** Frontend UI, map API integration, request handling  
+**Highlight:** Real-time mapping, emergency request tracking.
 
-#### 📦 Inventory Management System  
-**Goal:** Streamline and manage item inventory with minimal overhead  
-**Tech Stack:** Java, MySQL, HTML/CSS, JS  
-**Highlight:** Intuitive UI with categorized tracking and alert system for low stock  
-
----
-
-### 👩‍💻 Tech Stack I Use
-
-**Frontend & Backend**  
-![HTML](https://img.icons8.com/color/48/html-5.png) ![CSS](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript.png) ![Flutter](https://img.icons8.com/color/48/flutter.png)  
-![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) ![Firebase](https://img.icons8.com/color/48/google-firebase-console.png) ![Google Maps API](https://img.icons8.com/color/48/google-maps-new.png)
-
-**Database**  
-![MySQL](https://img.icons8.com/color/48/mysql-logo.png) ![Cloud Firestore](https://img.icons8.com/color/48/google-cloud.png)
+#### 📦 [Inventory Management System](#)
+Tracks and manages inventory stock and alerts low stock conditions.  
+**Stack:** Java, HTML, CSS, JS, MySQL  
+**Role:** Feature design, testing, and UI flow  
+**Highlight:** Category-based inventory with smart notifications.
 
 ---
 
-### 🛠 Tools That Help Me Build
-
-![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)  
-![Eclipse](https://img.icons8.com/officel/48/java-eclipse.png)  
-![Notion](https://img.icons8.com/color/48/notion--v1.png)  
-![Figma](https://img.icons8.com/color/48/figma--v1.png)  
-![Git](https://img.icons8.com/color/48/git.png)
+### 🌱 I’m currently learning:
+- DSA and advanced Java concepts  
+- How to integrate **AI** tools into web workflows  
+- Improving test automation and frontend debugging
 
 ---
 
-### 🌈 Other Sides of Me
+### 🛠️ Tech Stack I Work With
+**Languages:**  
+<img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/>
 
-- 🕹 PUBG Player & Strategy Enthusiast
-- 🎬 Movie Buff
-- 💄 Aspiring **Makeup Artist** — tech + glam = me!
-
----
-
-### 🎯 My Goals
-
-- 🏆 Win **Best Memorial Award** in Moot Court
-- 💼 Land a role as a **tester in a top MNC**
-- 📖 Keep learning, building, and collaborating
+**Frameworks & Tools:**  
+<img height="40" src="https://img.icons8.com/color/48/flutter.png"/> <img height="40" src="https://img.icons8.com/color/48/google-firebase-console.png"/> <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/officel/48/java-eclipse.png"/> <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/>
 
 ---
 
-### 🔗 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
+### 💻 Workspace Setup
+<img height="30" src="https://img.shields.io/badge/Lenovo-IdeaPad-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
 ---
 
-> "Code like a developer. Think like a tester. Dream like an artist." — Swathi 🌟
+### 🎯 Goals
+- 📚 Score above 8 CGPA in my 3rd year
+- 🏆 Win Best Memorial Award in moot court
+- 💼 Land a role as a software tester in an MNC
+- 💅 Become a part-time **makeup artist**
+
+---
+
+### ⚡ Fun Facts
+- 🎮 PUBG gamer in my chill time
+- 🎥 Movie lover
+- 🧪 Enjoy breaking and fixing code as a tester
+
+---
+
+### 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+
+---
+
+> “Test fearlessly. Build boldly. Shine naturally.” — *Swathi ✨*
+
+
 
