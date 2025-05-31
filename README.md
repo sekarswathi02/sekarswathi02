@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Swathi (a.k.a. Sindhu)
+## Hi there 👋 I'm Swathi
 
 Computer Science & Engineering Student | Passionate Tester | Dreaming in Code & Colors 💻💄  
 Aspiring to work at an MNC and build meaningful solutions that help people 🌍  
@@ -66,8 +66,7 @@ Tracks and manages inventory stock and alerts low stock conditions.
 ---
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![LinkedIn](https://www.linkedin.com/in/swathi-sekarr02/)  
 
 ---
 
