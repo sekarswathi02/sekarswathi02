@@ -1,76 +1,105 @@
-## Hi there 👋 I'm Swathi
+# 👋 Hi, I'm SWATHI S
 
-Computer Science & Engineering Student | Passionate Tester | Dreaming in Code & Colors 💻💄  
-Aspiring to work at an MNC and build meaningful solutions that help people 🌍  
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+🎓 I'm a Computer Science and Engineering student at M.Kumarasamy College of Engineering  
+💡 Passionate about both developing and testing software  
+🎯 Blending logic and creativity to build reliable, impactful applications  
+🚀 Aspiring to grow into a skilled developer and tester at a top MNC
 
 ---
 
-### 🔭 My Projects
+## 🔭 My Projects
 
-#### 🥘 [Food Management Website](#)
-Helps reduce food waste by connecting food contractors with volunteers for distribution.  
-**Stack:** HTML, CSS, JavaScript, Java  
-**Role:** Testing, UI validation, functionality workflow  
-**Highlight:** Real-time food request and volunteer coordination.
+### 🚛 [Revolutionizing Food Sharing for a Sustainable Tomorrow](https://github.com/sekarswathi02#)
+A system that reduces food waste by connecting food contractors with volunteers.  
+**Tech Stack:** HTML, CSS, JavaScript, Java  
+**Role:** Testing, UI Validation, Functionality Workflow  
+**Highlight:** Real-time food requests and volunteer coordination.
 
-#### ⚠️ [Post-Disaster Recovery Platform](#)
+---
+
+### 🌪️ [Post Disaster Management](https://github.com/sekarswathi02#)
 Helps victims locate resources and coordinate help during disasters.  
-**Stack:** Flutter, Firebase, Google Maps API, Cloud Firestore  
-**Role:** Frontend UI, map API integration, request handling  
-**Highlight:** Real-time mapping, emergency request tracking.
-
-#### 📦 [Inventory Management System](#)
-Tracks and manages inventory stock and alerts low stock conditions.  
-**Stack:** Java, HTML, CSS, JS, MySQL  
-**Role:** Feature design, testing, and UI flow  
-**Highlight:** Category-based inventory with smart notifications.
+**Tech Stack:** Flutter, Firebase, Google Maps API, Cloud Firestore  
+**Role:** Frontend UI, Map API Integration, Request Handling  
+**Highlight:** Real-time mapping and emergency request tracking.
 
 ---
 
-### 🌱 I’m currently learning:
-- DSA and advanced Java concepts  
-- How to integrate **AI** tools into web workflows  
-- Improving test automation and frontend debugging
+### 📦 [Inventory Management System](https://github.com/sekarswathi02#)
+Tracks inventory stock and alerts low stock conditions.  
+**Tech Stack:** Java, HTML, CSS, JavaScript, MySQL  
+**Role:** Feature Design, Testing, UI Flow  
+**Highlight:** Smart notifications and category-based stock management.
 
 ---
 
-### 🛠️ Tech Stack I Work With
-**Languages:**  
-<img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/>
+## 🌱 Currently Learning
+- Advanced Java Programming
 
-**Frameworks & Tools:**  
-<img height="40" src="https://img.icons8.com/color/48/flutter.png"/> <img height="40" src="https://img.icons8.com/color/48/google-firebase-console.png"/> <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/officel/48/java-eclipse.png"/> <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/>
-
----
-
-### 💻 Workspace Setup
-<img height="30" src="https://img.shields.io/badge/Lenovo-IdeaPad-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+## 💬 Ask Me About
+Hi! I’m Swathi S, from Nagapattinam, currently based in Karur. I enjoy building user-focused software and validating quality through thorough testing. From food sharing platforms to emergency support tools, my projects reflect my goal to create tech with impact. Outside tech, I love makeup artistry, PUBG, and movies — creativity meets logic! 🎮💄
 
 ---
 
-### 🎯 Goals
-- 📚 Score above 8 CGPA in my 3rd year
-- 🏆 Win Best Memorial Award in moot court
-- 💼 Land a role as a software tester in an MNC
-- 💅 Become a part-time **makeup artist**
+## 📫 Reach Me At
+- ✉️ swathisekar.020203@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/swathi-sekarr02/)  
+- 📄 [Resume](https://drive.google.com/file/d/1JuNHXjAWf4spYhOkyyDgoQFKVf_xgVoj/view?usp=drive_link)  
+- 🌐 Portfolio: *[your portfolio link]*  
+- 📝 Blog: *[your blog link]*  
 
 ---
 
-### ⚡ Fun Facts
-- 🎮 PUBG gamer in my chill time
-- 🎥 Movie lover
-- 🧪 Enjoy breaking and fixing code as a tester
+## ⚡ Fun Fact
+PUBG taught me quick reflexes — now I squash bugs under pressure like a pro! 🎮🐞  
+I once dreamed of becoming a makeup artist... now I beautify code instead! 💄➡️💻
 
 ---
 
-### 📫 Let’s Connect
-[![LinkedIn](https://www.linkedin.com/in/swathi-sekarr02/)  
+## 🛠️ Skills
+
+**Languages**  
+`Java` `C` `C++` `JavaScript` `Python` `HTML` `CSS`
+
+**Frontend**  
+`HTML5` `CSS3` `JavaScript` `React` `Bootstrap` `Flutter`
+
+**Backend**  
+`Java` `Spring` `Firebase` `MySQL`
+
+**Mobile**  
+`Flutter` `Dart`
+
+**Tools & Platforms**  
+`Git` `Postman` `VSCode` `Figma` `Photoshop`
+
+**Testing**  
+`Selenium` `Cypress`
 
 ---
 
-> “Test fearlessly. Build boldly. Shine naturally.” — *Swathi ✨*
+## 🌐 Online Presence
+
+- 👩‍💻 [GitHub](https://github.com/sekarswathi02)
+- 🎓 [LeetCode](https://leetcode.com/u/swathi_sekar12/)
+- 🧠 [HackerRank](https://www.hackerrank.com/profile/swathisekar_0201)
+- 🍽️ [CodeChef](https://www.codechef.com/users/swathi_020203)
+
+---
+
+## 🧡 Support Me
+
+If you like my work, you can support me:  
+☕ **Buy Me a Coffee**: *[your buymeacoffee username or link]*  
+💡 **Buy Me a Ko-fi**: *[your buymeakofi link]*
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sekarswathi02&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sekarswathi02&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sekarswathi02&theme=radical)
+
+
 
 
 
