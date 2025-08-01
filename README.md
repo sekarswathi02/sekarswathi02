@@ -1,4 +1,5 @@
 # 👋 Hi, I'm SWATHI S
+
 <img src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg" alt="Swathi Coding" width="300" align="right"/>
 
 🎓 I'm a Computer Science and Engineering student at M.Kumarasamy College of Engineering  
